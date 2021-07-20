@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `.ts`, `.js`, `scss/css`, `.php` these days
 - 🌍 I'm mostly active within **Stackoverflow [stackoverflow.com/users/3405849/danish](https://stackoverflow.com/users/3405849/danish)** or **Twitter**
 - 💬 Ping me about **development**, **architecture**, **NodeJS**, **Javascript**, **Typescript**
-- :postbox: Reach me: [twitter.com/yo_daniish](https://twitter.com/yo_daniish) and [idanishraza@gmail.com](mailto:idanishraza@gmail.com)
+- :postbox: Reach me: [twitter.com/yo_daniish](https://twitter.com/yo_daniish) and :incoming_envelope: [idanishraza@gmail.com](mailto:idanishraza@gmail.com)
 - ⚡️ Fun fact: I love to play videogames (huge FPS gaming enthusiast e.g Valorant, CSGO, Call of Duty) as one of my hobbies, I had plenty of time back when I was a student, but almost no game to play, now I've got tons of games over time, and don't have time to play them :sweat_smile: Steam: [www.steamcommunity.com/id/Yeomannn/]
 
 

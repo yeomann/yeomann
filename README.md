@@ -4,7 +4,7 @@
 
 - :pakistan: I'm originally from Pakistan, went Cyprus for studying at age of 18, spent 8 years there and now recently moved to Turkey.
 - :speaking_head: اردو میری مادری زبان ہے, speak quite good english, ve ayrıca İyi Türkçe (öğreniyorum :smile: ) 
-- :scroll: I'm currently working at [**Makeen Technologies LLC**](https://www.makeen.io/)
+- :scroll: I'm currently working at [**Makeen Technologies LLC**](https://www.makeen.io/) and with Amazon [**Amazon.com, Inc**](https://www.amazon.com/) through makeen
 - ⚙️ I use daily: `.ts`, `.js`, `scss/css`, `.php` these days
 - 🌍 I'm mostly active within **Stackoverflow [stackoverflow.com/users/3405849/danish](https://stackoverflow.com/users/3405849/danish)** or **Twitter**
 - 💬 Ping me about **development**, **architecture**, **NodeJS**, **Javascript**, **Typescript**

@@ -5,7 +5,7 @@
 - I'm originally from :pakistan: Pakistan, moved abroad to :cyprus: Cyprus at age of 18, after spending 8 years in Cyprus, moved and living in <br />:tr: Turkey at the moment.
 - :speaking_head: اردو میری مادری زبان ہے, speak quite good english, ve ayrıca İyi Türkçe (öğreniyorum :smile: ) 
 - :scroll: I'm currently working at [**Makeen Technologies LLC**](https://www.makeen.io/) and with [**Amazon.com, Inc**](https://www.amazon.com/)
-- ⚙️ I use daily: `.ts`, `.js`, `scss/css`, `.php` these days
+- ⚙️ I use daily: `.ts`, `.js`, `scss/css`, `linux`, `bash` these days
 - 🌍 I'm mostly active within **Stackoverflow [stackoverflow.com/users/3405849/danish](https://stackoverflow.com/users/3405849/danish)** or **Twitter**
 - 💬 Ping me about **development**, **architecture**, **NodeJS**, **Javascript**, **Typescript**
 - :postbox: Reach me: [twitter.com/yo_daniish](https://twitter.com/yo_daniish) and :incoming_envelope: [idanishraza@gmail.com](mailto:idanishraza@gmail.com) :incoming_envelope: [danisraz@amazon.com](mailto:danisraz@amazon.com)

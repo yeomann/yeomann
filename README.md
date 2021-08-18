@@ -2,7 +2,7 @@
 
 #### I'm a Software Engineer :computer: working remotely and living in Istanbul, Turkey at the moment :tr:
 
-- :pakistan: I'm originally from Pakistan, went :cyprus: Cyprus for studying at age of 18, spent 8 years there and now recently moved to :tr: Turkey.
+- I'm originally from :pakistan: Pakistan, moved abroad to :cyprus: Cyprus at age of 18, after spending 8 years in Cyprus, moved and living in <br />:tr: Turkey at the moment.
 - :speaking_head: اردو میری مادری زبان ہے, speak quite good english, ve ayrıca İyi Türkçe (öğreniyorum :smile: ) 
 - :scroll: I'm currently working at [**Makeen Technologies LLC**](https://www.makeen.io/) and with [**Amazon.com, Inc**](https://www.amazon.com/)
 - ⚙️ I use daily: `.ts`, `.js`, `scss/css`, `.php` these days

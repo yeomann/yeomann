@@ -16,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeomann)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **yeomann/yeomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

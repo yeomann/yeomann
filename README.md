@@ -1,6 +1,6 @@
 ### Hi there, I'm Danish 👋
 
-#### I'm a Software Engineer :computer: working remotely and living in :tr: Istanbul, Turkey at the moment
+#### I'm a Senior Software Engineer :computer: working remotely and living in :tr: Istanbul, Turkey at the moment
 
 - I'm originally from :pakistan: Pakistan, moved abroad to :cyprus: Cyprus at age of 18, after spending 8 years in Cyprus, moved and living in beautiful :tr: Turkey at the moment.
 - :speaking_head: اردو میری مادری زبان ہے, speak quite good english, ve ayrıca İyi Türkçe (öğreniyorum :smile: ) 

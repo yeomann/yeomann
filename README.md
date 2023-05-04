@@ -9,4 +9,4 @@
 - 🌍 I'm mostly active within **Stackoverflow** [stackoverflow.com/users/3405849/danish](https://stackoverflow.com/users/3405849/danish)
 - 💬 Ping me about **development**, **architecture**,  **Python**, **NodeJS**, **Typescript**, **React**, **Blockchain** 
 - :postbox: Reach me at :incoming_envelope: [idanishraza@gmail.com](mailto:idanishraza@gmail.com)
-- ⚡️ Lastly, a fun fact about me is that I enjoy playing video games, particularly FPS games such as Valorant, CSGO, and Call of Duty, Overwatch2, Although I used to have plenty of free time during my student days, I now have tons of games but no time to play them :sweat_smile:
+- ⚡️ Lastly, a fun fact about me; I enjoy playing FPS video games such as Valorant, CSGO, Call of Duty, and Overwatch2, but despite having many games, my busy schedule leaves me with little to no time to play :sweat_smile:

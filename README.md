@@ -1,6 +1,6 @@
 ### Greetings, my name is Danish 👋
 
-#### As a Senior Software Engineer and a passionate ₿lockchain enthusiast ⚡, I am currently based in :tr: Istanbul/Ankara, while working remotely. Originally from :pakistan: Pakistan, I moved to :cyprus: Cyprus at the age of 18, and now find myself living in the beautiful country of :tr: Turkey.
+#### As a Senior Software Engineer and a passionate ₿lockchain enthusiast ⚡, I am currently based in 🇹🇷 Istanbul/Ankara, while working remotely. Originally from 🇵🇰 Pakistan, I moved to 🇨🇾 Cyprus at the age of 18, and now find myself living in the beautiful country of 🇹🇷 Turkey.
 
 
 - :speaking_head: In terms of language, اردو is my mother tongue, and I am also proficient in English and İyi Türkçe 🙂
